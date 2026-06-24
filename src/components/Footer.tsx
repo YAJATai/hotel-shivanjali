@@ -70,7 +70,7 @@ export function Footer() {
 
         <div className="w-full h-[200px] md:h-[260px] rounded-sm overflow-hidden relative border border-neutral-100 group shadow-sm bg-neutral-100">
           <iframe 
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDREZBeBTO6wZ5ox6JQ2wDvCiZt5TSPFZc&q=Hotel+Shivanjali+Pune&center=18.55,73.78&zoom=15"
+            src="https://www.google.com/maps?q=Hotel+Shivanjali+Pune&output=embed"
             className="w-full h-full border-0 grayscale hover:grayscale-0 transition-all duration-[600ms]"
             allowFullScreen={false}
             loading="lazy"

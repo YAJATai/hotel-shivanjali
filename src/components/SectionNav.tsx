@@ -91,7 +91,7 @@ export function SectionNav() {
                 className={cn(
                   "w-2.5 h-2.5 rounded-full border transition-all duration-300 flex items-center justify-center",
                   isActive 
-                    ? "border-gold bg-gold scale-125 shadow-[0_0_10px_rgba(198,40,40,0.5)]" 
+                    ? "border-gold bg-gold scale-125 shadow-[0_0_10px_rgba(212,160,23,0.5)]" 
                     : "border-white/40 bg-zinc-900 group-hover:border-white group-hover:scale-110"
                 )}
               >
